@@ -1,15 +1,23 @@
-
 {
     "hardwareConfiguration": {
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 2
+            "threadCount": 12
         },
         "nvidia": {
-            "devices": []
+            "devices": [
+                {
+                    "desktopLag": 100.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 100.0,
+                    "name": "GeForce GTX 1070"
+                }
+            ]
         }
     },
+
     "pools": [
         {
             "agent": "",
@@ -20,7 +28,7 @@
             "password": "",
             "port": 3333,
             "priority": 0,
-            "rigID": "",
+            "rigID": "Kontol",
             "ssl": false,
             "username": "gunsQ33Sqyb1aEtYKyv3xyezrbeK3uzSibmta747tUJ1CLiZbaraLuzQfYVDdJoM682FYs9Vxe3G9fDWRxtzcD2V78MUUuEc4w"
         }
