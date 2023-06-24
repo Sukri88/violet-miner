@@ -6,7 +6,7 @@
             "threadCount": 12
         }
  }
-    },
+    }
     "pools": [
         {
             "agent": "",
