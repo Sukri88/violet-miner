@@ -4,7 +4,7 @@
             "enabled": true,
             "optimizationMethod": "Auto",
             "threadCount": 12
-        },
+        }
  }
     },
     "pools": [
